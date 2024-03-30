@@ -1,0 +1,1 @@
+This repository delves into U.S. birth rate trends using Python's powerful Pandas library. It offers a comprehensive exploration, cleaning, analysis, and visualization of birth data from a CSV file (births.csv). The project sheds light on patterns by decade, gender, day of week, and day of year.
